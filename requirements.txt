@@ -3,3 +3,7 @@ tensorflow
 numpy
 matplotlib
 pandas
+jupyterlite
+skillsnetwork
+seaborn
+plotly
