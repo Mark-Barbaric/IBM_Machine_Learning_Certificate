@@ -7,3 +7,5 @@ jupyterlite
 skillsnetwork
 seaborn
 plotly
+openpyxl
+scikit-learn
