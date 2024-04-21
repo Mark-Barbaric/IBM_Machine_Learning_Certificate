@@ -1,0 +1,1 @@
+https://medium.com/coinmonks/regularization-of-linear-models-with-sklearn-f88633a93a2
