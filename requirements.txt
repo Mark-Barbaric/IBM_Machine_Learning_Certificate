@@ -9,4 +9,4 @@ seaborn
 plotly
 openpyxl
 scikit-learn
-pyodide
+statsmodels
