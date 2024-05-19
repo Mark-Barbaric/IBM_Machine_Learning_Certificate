@@ -6,5 +6,9 @@ This workbook relates to all of the various labs and some personal workbooks whi
 
 So not all of the courses from this Module had labs or demos, but I included all the important ones.
 
-Extra workbooks
+## Supervised Machine Learning - Classification
+
+
+
+## Supervised Machine Learning - Regression
 
