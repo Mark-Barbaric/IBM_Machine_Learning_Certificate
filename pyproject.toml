@@ -22,6 +22,7 @@ scikit-learn = "^1.5.0"
 statsmodels = "^0.14.2"
 scipy = "^1.13.1"
 imbalanced-learn = "^0.12.3"
+pydotplus = "^2.0.2"
 
 
 [build-system]

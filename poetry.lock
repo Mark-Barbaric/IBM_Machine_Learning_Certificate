@@ -1793,6 +1793,19 @@ files = [
 ]
 
 [[package]]
+name = "pydotplus"
+version = "2.0.2"
+description = "Python interface to Graphviz's Dot language"
+optional = false
+python-versions = "*"
+files = [
+    {file = "pydotplus-2.0.2.tar.gz", hash = "sha256:91e85e9ee9b85d2391ead7d635e3d9c7f5f44fd60a60e59b13e2403fa66505c4"},
+]
+
+[package.dependencies]
+pyparsing = ">=2.0.1"
+
+[[package]]
 name = "pygments"
 version = "2.18.0"
 description = "Pygments is a syntax highlighting package written in Python."
@@ -2634,4 +2647,4 @@ test = ["big-O", "importlib-resources", "jaraco.functools", "jaraco.itertools", 
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.10"
-content-hash = "4fca48b3b0b193bd3dff9cbaea292744147a10c5f38f25a4756e0d41c7a6deb7"
+content-hash = "b26f8eef2a8b64066aa5dbb23ebbd1e98806884660d39efd662dcdd3406fc73f"
