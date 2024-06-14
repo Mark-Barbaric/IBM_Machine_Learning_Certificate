@@ -1,0 +1,30 @@
+[tool.poetry]
+name = "ibm-machine-learning-course"
+version = "0.1.0"
+description = ""
+authors = ["Mark Barbaric <markantonybarbaric@hotmail.com>"]
+readme = "README.md"
+package-mode = false
+
+[tool.poetry.dependencies]
+python = "^3.10"
+ipykernel = "^6.29.4"
+tensorflow = "^2.16.1"
+numpy = "^1.26.4"
+matplotlib = "^3.9.0"
+pandas = "^2.2.2"
+jupyterlite = "^0.3.0"
+skillsnetwork = "^0.21.9"
+seaborn = "^0.13.2"
+plotly = "^5.22.0"
+openpyxl = "^3.1.4"
+scikit-learn = "^1.5.0"
+statsmodels = "^0.14.2"
+scipy = "^1.13.1"
+imbalanced-learn = "^0.12.3"
+pydotplus = "^2.0.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
