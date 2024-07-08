@@ -25,6 +25,7 @@ imbalanced-learn = "^0.12.3"
 pydotplus = "^2.0.2"
 jinja2 = "^3.1.4"
 xgboost = "^2.1.0"
+lime = "^0.2.0.1"
 
 
 [build-system]
