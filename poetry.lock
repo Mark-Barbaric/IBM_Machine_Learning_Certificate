@@ -1377,6 +1377,20 @@ numpy = [
 dev = ["absl-py", "pyink", "pylint (>=2.6.0)", "pytest", "pytest-xdist"]
 
 [[package]]
+name = "mpl-tools"
+version = "0.4.0"
+description = "Tools for working with matplotlib"
+optional = false
+python-versions = ">=3.9,<4.0"
+files = [
+    {file = "mpl_tools-0.4.0-py3-none-any.whl", hash = "sha256:f9f55d86f4c76b5bb397a4a0a4dc8fe80b96f06ed0fd8bdcaad441da242a1e1f"},
+    {file = "mpl_tools-0.4.0.tar.gz", hash = "sha256:e1e4564fb6974fface67699f0abb25e85d1c1ebf73454500e2cc57c673394a9f"},
+]
+
+[package.dependencies]
+matplotlib = ">=3.7,<4.0"
+
+[[package]]
 name = "namex"
 version = "0.0.8"
 description = "A simple utility to separate the implementation of your Python package and its public API surface."
@@ -2859,4 +2873,4 @@ test = ["big-O", "importlib-resources", "jaraco.functools", "jaraco.itertools", 
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.10"
-content-hash = "1015e23ae4d0f0f25706e4d35b175a495b1486c124770648dc16093eefbad3a0"
+content-hash = "3c0db5e9bc5ccdea408a1c41e4b842da2d0c6b4b9a2a5044b2ba7e801ffe8bb9"
