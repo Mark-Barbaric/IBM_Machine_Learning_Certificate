@@ -1,9 +1,8 @@
 **/data/
 /__pycache__
+
+# SQL
+blog_posts
+
+#Poetry
 .venv
-
-# Images
-
-*.jpeg
-*.png
-*.jpg
