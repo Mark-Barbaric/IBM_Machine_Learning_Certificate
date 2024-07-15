@@ -8,9 +8,11 @@ So not all of the courses from this Module had labs or demos, but I included all
 
 ## Supervised Machine Learning - Regression
 
+Includes labs covering polynomial regression, cross validation and regularization.
+
 ## Supervised Machine Learning - Classification
 
+Includes labs and demos for Logistic Regression, KNN, SVM, Decision Trees Ensemble Methods and handling imbalanced data.
 
-
-## Supervised Machine Learning - Regression
+## UnSupervised Machine Learning
 

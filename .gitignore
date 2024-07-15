@@ -1,7 +1,8 @@
-/venv**/**
 **/data/
 /__pycache__
 
-
 # SQL
 blog_posts
+
+#Poetry
+.venv
