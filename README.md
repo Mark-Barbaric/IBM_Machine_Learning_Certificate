@@ -29,7 +29,7 @@ Labs cover the below topics:
 - Decision Trees
 - Ensemble Methods including Boosting, Stacking and Bagging
 - Handling Imbalanced Datasets and Model Agnostic Explanations
-- Final Assignment: Classifying Student Performance into GPA Buckets using Student Performance Dataset from Kaggle.
+- Final Assignment: Classifying Student Performance into GPA Buckets using Student Performance Dataset from Kaggle
 
 ## Unsupervised Machine Learning
 
@@ -37,4 +37,5 @@ Labs include the below topics:
 
 - K-Means and GMM Clustering
 - Dimensionality and Distance Metrics
-- DBSCAN and Evaluation of different Clustering Methods.
+- DBSCAN and Evaluation of different Clustering Methods
+- Dimensionality Reduction and PCA
