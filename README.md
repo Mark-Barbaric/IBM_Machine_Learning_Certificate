@@ -38,4 +38,4 @@ Labs include the below topics:
 - K-Means and GMM Clustering
 - Dimensionality and Distance Metrics
 - DBSCAN and Evaluation of different Clustering Methods
-- Dimensionality Reduction and PCA
+- Dimensionality Reduction, PCA and SVD
