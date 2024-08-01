@@ -39,3 +39,5 @@ Labs include the below topics:
 - Dimensionality and Distance Metrics
 - DBSCAN and Evaluation of different Clustering Methods
 - Dimensionality Reduction, PCA and SVD
+- Kernel PCA and Multi Dimensional Scaling
+- Non-Negative Matrix Factorization
