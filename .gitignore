@@ -9,6 +9,8 @@ blog_posts
 
 # General
 
+*.csv
+
 *.jpg
 
 # Unsupervised Machine Learning
