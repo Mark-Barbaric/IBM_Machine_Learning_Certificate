@@ -41,3 +41,4 @@ Labs include the below topics:
 - Dimensionality Reduction, PCA and SVD
 - Kernel PCA and Multi Dimensional Scaling
 - Non-Negative Matrix Factorization
+- Final Assignment: Clustering California Housing Dataset using KMeans, Mean Shift and DBSCAN
