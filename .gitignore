@@ -8,8 +8,8 @@ blog_posts
 .venv
 
 # General
-
 *.csv
+*.npy
 
 *.jpg
 

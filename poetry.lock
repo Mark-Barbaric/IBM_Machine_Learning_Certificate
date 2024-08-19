@@ -2228,6 +2228,25 @@ pygments = ">=2.13.0,<3.0.0"
 jupyter = ["ipywidgets (>=7.5.1,<9)"]
 
 [[package]]
+name = "scikeras"
+version = "0.13.0"
+description = "Scikit-Learn API wrapper for Keras."
+optional = false
+python-versions = "<4,>=3.9.0"
+files = [
+    {file = "scikeras-0.13.0-py3-none-any.whl", hash = "sha256:beeec4536129e316f8ffa56b32cbc097fa9168f3789feb243cadb8d9a36a0084"},
+    {file = "scikeras-0.13.0.tar.gz", hash = "sha256:bfc720b2755f6c09981da13c9858e999a4bf775c49b0a296847dd1adad4c5d7d"},
+]
+
+[package.dependencies]
+keras = ">=3.2.0"
+scikit-learn = ">=1.4.2"
+
+[package.extras]
+tensorflow = ["tensorflow (>=2.16.1)"]
+test = ["tensorflow (>=2.16.1)"]
+
+[[package]]
 name = "scikit-image"
 version = "0.24.0"
 description = "Image processing in Python"
@@ -2977,4 +2996,4 @@ test = ["big-O", "importlib-resources", "jaraco.functools", "jaraco.itertools", 
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.10"
-content-hash = "c6690fdb744c72168d020fb5e4595459d8b940184b4647aaa18870d235718612"
+content-hash = "781f9dc16952acf61003fc3dea41769b6dbba38c0a447dd48028cdf71704f91e"
