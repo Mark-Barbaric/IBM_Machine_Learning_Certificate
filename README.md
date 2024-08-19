@@ -42,3 +42,8 @@ Labs include the below topics:
 - Kernel PCA and Multi Dimensional Scaling
 - Non-Negative Matrix Factorization
 - Final Assignment: Clustering California Housing Dataset using KMeans, Mean Shift and DBSCAN
+
+## Deep Learning and Reinforcement Learning
+
+- Intro to Neural Networks and Keras
+- Gradient Descent and Optimizers
