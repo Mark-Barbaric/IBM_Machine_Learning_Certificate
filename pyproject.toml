@@ -32,6 +32,7 @@ sympy = "^1.13.1"
 folium = "^0.17.0"
 scikeras = "^0.13.0"
 mlxtend = "^0.23.1"
+nltk = "^3.9.1"
 
 
 [build-system]
