@@ -33,6 +33,7 @@ folium = "^0.17.0"
 scikeras = "^0.13.0"
 mlxtend = "^0.23.1"
 nltk = "^3.9.1"
+tensorflow-hub = "^0.16.1"
 
 
 [build-system]
