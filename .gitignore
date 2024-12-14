@@ -19,6 +19,8 @@ boats
 peds
 traffic
 
+face_data
+
 **/financial-data
 **/mini_speech_commands
 human_data.txt
