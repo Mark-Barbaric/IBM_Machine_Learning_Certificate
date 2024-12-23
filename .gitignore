@@ -21,6 +21,7 @@ traffic
 
 face_data
 cartoon_20000
+**/gan_data
 
 **/financial-data
 **/mini_speech_commands
