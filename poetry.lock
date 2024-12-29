@@ -1178,6 +1178,26 @@ test = ["ansi2html", "diffoscope", "pytest-console-scripts", "pytest-cov", "pyte
 translation = ["jupyterlab-server (>=2.8.1,<3)"]
 
 [[package]]
+name = "kagglehub"
+version = "0.3.6"
+description = "Access Kaggle resources anywhere"
+optional = false
+python-versions = ">=3.9"
+files = [
+    {file = "kagglehub-0.3.6-py3-none-any.whl", hash = "sha256:fac03aeb53cb75ab1d0ed464eb2198d022548c0589983d2e061323db5816ff52"},
+    {file = "kagglehub-0.3.6.tar.gz", hash = "sha256:3e9485f8ff59d87d1055f1cb22369ffd943826492ff586368ba1934a58c11291"},
+]
+
+[package.dependencies]
+packaging = "*"
+requests = "*"
+tqdm = "*"
+
+[package.extras]
+hf-datasets = ["datasets", "pandas"]
+pandas-datasets = ["pandas"]
+
+[[package]]
 name = "keras"
 version = "3.7.0"
 description = "Multi-backend Keras"
@@ -3764,4 +3784,4 @@ type = ["pytest-mypy"]
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.10"
-content-hash = "0f8f641636e23fd4b9f4e0dd60f594635dc951688664cd6f0e89de6c1aa7db54"
+content-hash = "b9e1ebe40e99a44838c3c9b6dd08486c4b96c23b45a326d5c84fc9bc4be20eaa"
