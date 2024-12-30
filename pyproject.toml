@@ -40,6 +40,7 @@ tqdm = "^4.67.1"
 torchvision = "^0.20.1"
 tdqm = "^0.0.1"
 kagglehub = "^0.3.6"
+pydantic = "^2.10.4"
 
 
 [build-system]
