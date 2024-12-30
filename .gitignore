@@ -29,3 +29,5 @@ cartoon_20000
 **/financial-data
 **/mini_speech_commands
 human_data.txt
+
+__pycache__
