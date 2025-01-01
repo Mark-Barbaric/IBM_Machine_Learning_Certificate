@@ -19,9 +19,15 @@ boats
 peds
 traffic
 
+raw
 face_data
 cartoon_20000
+**/gan_data
+
+*.pth
 
 **/financial-data
 **/mini_speech_commands
 human_data.txt
+
+__pycache__
