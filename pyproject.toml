@@ -9,7 +9,7 @@ package-mode = false
 [tool.poetry.dependencies]
 python = "^3.10"
 ipykernel = "^6.29.4"
-tensorflow = "2.17"
+tensorflow = {version = "2.17", extras = ["and-cuda"]}
 numpy = "^1.26.4"
 matplotlib = "^3.9.0"
 pandas = "^2.2.2"
@@ -35,12 +35,11 @@ mlxtend = "^0.23.1"
 nltk = "^3.9.1"
 tensorflow-hub = "^0.16.1"
 gym = "^0.26.2"
-torch = "^2.5.1"
 tqdm = "^4.67.1"
-torchvision = "^0.20.1"
 tdqm = "^0.0.1"
 kagglehub = "^0.3.6"
 pydantic = "^2.10.4"
+transformers = "^4.47.1"
 
 
 [build-system]
