@@ -40,6 +40,8 @@ tdqm = "^0.0.1"
 kagglehub = "^0.3.6"
 pydantic = "^2.10.4"
 transformers = "^4.47.1"
+gensim = "^4.3.3"
+wordcloud = "^1.9.4"
 
 
 [build-system]
